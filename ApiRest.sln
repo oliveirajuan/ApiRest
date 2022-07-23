@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{EE33A13D-815B-4651-A2E3-4CDD7514968B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Presentation", "AR.Presentation\AR.Presentation.csproj", "{7BF4038D-6E03-404F-B6DF-110677AD0660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF4038D-6E03-404F-B6DF-110677AD0660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF4038D-6E03-404F-B6DF-110677AD0660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF4038D-6E03-404F-B6DF-110677AD0660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF4038D-6E03-404F-B6DF-110677AD0660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BF4038D-6E03-404F-B6DF-110677AD0660} = {EE33A13D-815B-4651-A2E3-4CDD7514968B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920B30AF-EC02-4DFC-9425-32316D29C6CF}
+	EndGlobalSection
+EndGlobal
